@@ -1,0 +1,233 @@
+*************************************************************
+FileName = PCB_TRY.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : PCB_TRY.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D18
+    D19
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB_TRY.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D18
+    D19
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : PCB_TRY.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : PCB_TRY.GM13
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D10
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : PCB_TRY.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D18
+    D19
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB_TRY.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB_TRY.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PCB_TRY.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PCB_TRY.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : PCB_TRY.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : PCB_TRY.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D10
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PCB_TRY.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PCB_TRY.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PCB_TRY.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : PCB_TRY.GM
+
+
+Used DCodes :
+    D30
+*************************************************************
+

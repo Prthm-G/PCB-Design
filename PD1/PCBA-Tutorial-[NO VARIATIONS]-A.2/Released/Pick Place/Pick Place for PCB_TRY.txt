@@ -1,0 +1,24 @@
+Altium Designer Pick and Place Locations
+C:\Users\241pr\AppData\Local\TempReleases\Snapshot\6\Assembly\Pick Place\Pick Place for PCB_TRY.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/06/23
+Time:       23:53
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                            Layer    Footprint             Center-X(mm) Center-Y(mm) Rotation Description                                                                                                   
+TP2        Testpoint                          TopLayer KSTN-5011_V           22.7330      12.8270      0        "Test Point MultiPurpose THM H .445 Nylon 46 Insulated Blk PhosBronze/Silver"                                 
+TP1        Testpoint                          TopLayer KSTN-5011_V           8.3820       14.0970      0        "Test Point MultiPurpose THM H .445 Nylon 46 Insulated Blk PhosBronze/Silver"                                 
+R4         "Resistor 1K +/-5% 0805 500 mW."   TopLayer RESC2013X70X40ML20T20 19.3463      8.4230       270      "Fixed Resistor, Metal Glaze/thick Film, 0.5W, 1000ohm, 400V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805"     
+R3         "Resistor 1K +/-5% 0805 500 mW."   TopLayer RESC2013X70X40ML20T20 11.0490      8.4230       270      "Fixed Resistor, Metal Glaze/thick Film, 0.5W, 1000ohm, 400V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805"     
+R2         "Resistor 100K +/-5% 0805 125 mW." TopLayer RESC2013X70X40ML20T20 23.4950      8.4230       270      "Fixed Resistor, Metal Glaze/thick Film, 0.125W, 100000ohm, 150V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805" 
+R1         "Resistor 100K +/-5% 0805 125 mW." TopLayer RESC2013X70X40ML20T20 15.1977      8.4230       270      "Fixed Resistor, Metal Glaze/thick Film, 0.125W, 100000ohm, 150V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805" 
+Q2         "Transistor BC547CG"               TopLayer ONSC-TO-92-3-29-11    22.8600      19.3040      90       "Small Signal Bipolar Transistor, 0.1A I(C), 45V V(BR)CEO, 1-Element, NPN, Silicon, TO-92"                    
+Q1         "Transistor BC547CG"               TopLayer ONSC-TO-92-3-29-11    11.0490      19.3040      90       "Small Signal Bipolar Transistor, 0.1A I(C), 45V V(BR)CEO, 1-Element, NPN, Silicon, TO-92"                    
+P1         TSW-102-26-F-S                     TopLayer SMTC-TSW-102-26-XX-S  3.1750       14.3510      90       "Board Connector, 2 Contact(s), 1 Row(s), Male, Straight, 0.1 inch Pitch, Solder Terminal, Black Insulator"   
+C2         "Capacitor 22nF +/-5% 16V 0603."   TopLayer FP-C0603C-CF-IPC_A    16.5739      18.7960      0        "Ceramic Capacitor, Multilayer, Ceramic, 16V, 5% +Tol, 5% -Tol, X7R, 15% TC, 0.022uF, Surface Mount, 0603"    
+C1         "Capacitor 22nF +/-5% 16V 0603."   TopLayer FP-C0603C-CF-IPC_A    16.5739      15.8750      0        "Ceramic Capacitor, Multilayer, Ceramic, 16V, 5% +Tol, 5% -Tol, X7R, 15% TC, 0.022uF, Surface Mount, 0603"    
